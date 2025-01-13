@@ -7,3 +7,5 @@ P
  tests/voter-registration.test.ts,3/b/3b86ee71932407461fee104d0c1c5ddeb402c8f1
 R
 "contracts/proposal-management.clar,7/8/78f2693fbd872fa5b99abb916d5ccc04c7e0d131
+Q
+!tests/proposal-management.test.ts,9/3/93ea9df6f98f98b81edeff72cfc77c76646aa4a7
