@@ -13,3 +13,5 @@ M
 contracts/quantum-voting.clar,1/7/174ae2fd8c7b47fced5f983c0918383ea3c4ccb6
 L
 tests/quantum-voting.test.ts,f/2/f257a002f47fbf60e0638d316210e45af61ac9d0
+P
+ contracts/voting-rights-nft.clar,6/c/6cfd862865707825ddcebbcde29eb4e580ed85c8
