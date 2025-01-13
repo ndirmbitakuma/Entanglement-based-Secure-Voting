@@ -50,8 +50,18 @@ plan:
     - id: 0
       transactions:
         - emulated-contract-publish:
+            contract-name: proposal-management
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/proposal-management.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: voter-registration
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/voter-registration.clar
+            clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: voting-rights-nft
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/voting-rights-nft.clar
             clarity-version: 2
       epoch: "2.5"
